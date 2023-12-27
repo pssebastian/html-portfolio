@@ -1,4 +1,4 @@
-# html-resume
+# Capstone Project 1 - Online Resume
 Capstone project that I made after learning HTML from the course provided by the London App Brewery-Dr. Angela Yu.
 
 Project Specifications:
